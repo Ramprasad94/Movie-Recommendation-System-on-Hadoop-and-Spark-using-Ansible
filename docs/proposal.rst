@@ -1,4 +1,4 @@
-Project Proposal (In Progress)
+Proposal
 ===============================================================================
 
 Implementation of Movie Recommendation System Using Hadoop and Spark
@@ -12,29 +12,6 @@ Criteria for Model Evaluation
 -------------------------------------------------------------------------------
 
 For each user i and each movie j they have not seen, we find k most similar users who have seen j and then use them to infer user i's rating on movie j. If we cannot find k users for some movie j, then we take all users who have seen it. We test the performance on our system using cross validation.
-
-Team
--------------------------------------------------------------------------------
-
-  * Rishikesh Pandey, ripandey, ripandey, ripandey (Lead)
-  * Krishna Mahajan, krimahaj, krimahaj, krish
-  * Ramprasad Bommaganty, rbommaga, rbommaga, rbommaga
-
-Role
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* Deployment: Ramprasad Bommaganty
-* Configuration: Rishikesh Pandey
-* Database: Krishna Mahajan
-* Map/Reduce Functions: Rishikesh Pandey
-* Algorithm: Krishna Mahajan
-* Plot: Ramprasad Bommaganty
-
-Artifacts
--------------------------------------------------------------------------------
-
-* Put here a list of artifacts that you will create (this can be 
-  filled out at a later time)
 
 List of Technologies
 -------------------------------------------------------------------------------
@@ -69,24 +46,6 @@ List of DataSets
 -------------------------------------------------------------------------------
 
 * [10 Million dataset] (http://grouplens.org/datasets/movielens/)
-
-Schedule
--------------------------------------------------------------------------------
-
-* Week 1: Initial Meeting
-* Week 2: Proposal
-* Week 3: Discussion
-* Week 4: Presentation
-* Week 5: Refine raw dataset
-* Week 6: Build systems
-* Week 7: Develop modules, test run
-* Week 8: Final Report, Review, Submission
-
-Project Style and Type
--------------------------------------------------------------------------------
-
-* Bonus
-* Analytics
 
 Acknowledgement
 -------------------------------------------------------------------------------
