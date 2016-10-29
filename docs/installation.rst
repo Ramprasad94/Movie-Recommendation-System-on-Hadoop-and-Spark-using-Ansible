@@ -6,8 +6,6 @@ Prerequisites
 * Git
 * Pull the project repository: sw-project-template from patch-1.
 
-The URL is : git@github.iu.edu:ripandey/sw-project-template.git
-
 Installation
 ===============================================================================
 
