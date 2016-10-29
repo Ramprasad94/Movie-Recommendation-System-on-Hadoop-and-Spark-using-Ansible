@@ -4,7 +4,6 @@ Prerequisites
 * Ansible
 * Pip 
 * Git
-* Pull the project repository: sw-project-template from patch-1.
 
 Installation
 ===============================================================================
